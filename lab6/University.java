@@ -21,7 +21,6 @@ class University {
             System.out.println("University Name: " + universityName);
             System.out.println("Location: " + location);
 
-            // Inner class data
             System.out.println("Department Name: " + deptName);
             System.out.println("HOD Name: " + hodName);
         }
